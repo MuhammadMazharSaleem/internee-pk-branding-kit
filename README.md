@@ -21,12 +21,11 @@ Figma, Adobe Illustrator
 (https://www.figma.com/design/VHcgyahNHduRUCelxos9Sr/Internee.pk-Branding-Kit?node-id=24-157&t=bfFvZcmgT4TjHrJ7-1)
 
 ## Preview
-
-![Cover](./cover.png)
-![Logo](./logo.png)
-![Colors and Fonts](./colors-fonts.png)
-![Style Guide](./style-guide.png)
-![Templates](./templates.png)
+📄 [Cover Page](./cover.pdf)
+📄 [Logo](./logo.pdf)
+📄 [Colors and Fonts](./colors-fonts.pdf)
+📄 [Style Guide](./style-guide.pdf)
+📄 [Templates](./templates.pdf)
 
 ## About
 Designed by Mazhar during a Graphic Design internship with Internee.pk (June–August 2026).
