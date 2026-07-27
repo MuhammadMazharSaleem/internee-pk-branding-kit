@@ -1,31 +1,28 @@
-# internee-pk-branding-kit
-Brand identity system designed for Internee.pk
 # Internee.pk Branding Kit
 
 A complete brand identity system designed for Internee.pk, created during my Graphic Design internship.
 
-## Overview
-This project delivers a fresh visual identity for Internee.pk — using deep blue (trust) and warm orange (energy) to reflect their mission of helping students grow into career-ready professionals.
-
 ## What's Included
-- Logo system (primary, dark background, light background, icon-only)
+- Logo variations (primary, dark background, light background, icon-only)
 - Color palette
 - Typography system (Poppins + Inter)
 - Style guide
-- Social media templates
+- Social media templates (Instagram post + story)
 
 ## Tools Used
 Figma, Adobe Illustrator
 
-## View Full Design in Figma
-(https://www.figma.com/design/VHcgyahNHduRUCelxos9Sr/Internee.pk-Branding-Kit?node-id=24-157&t=bfFvZcmgT4TjHrJ7-1)
+## View the Design
+🔗 [Live Figma Prototype](https://www.figma.com/design/VHcgyahNHduRUCelxos9Sr/Internee.pk-Branding-Kit?node-id=7-63&t=71h1bRzPdyo8LRti-1)
 
 ## Preview
-📄 [Cover Page](./cover.pdf)
-📄 [Logo](./logo.pdf)
-📄 [Colors and Fonts](./colors-fonts.pdf)
-📄 [Style Guide](./style-guide.pdf)
-📄 [Templates](./templates.pdf)
+![Cover](./cover.png)
+![Logo](./logo.png)
+![Colors](./color.png)
+![Fonts](./fonts.png)
+![Style Guide](./style-guide.png)
+![Instagram Post](./instagram-post.png)
+![Instagram Story](./instagram-story.png)
 
 ## About
 Designed by Mazhar during a Graphic Design internship with Internee.pk (June–August 2026).
